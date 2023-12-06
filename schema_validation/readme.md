@@ -1,8 +1,9 @@
 # Schema validation
 
+Facilitate Heterogeneous Database schema validation. It Facilitate to validate Database objects migrated from Oracle to PostgreSQL.
 
 ## Features
-
+Core Features is automating overall validation of all different database objects types like Function/Procedure/Triggers/Views/Table/Constraint and more.
 
 
 ## Dependencies
